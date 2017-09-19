@@ -1,0 +1,34 @@
+.e-toolbar,
+.e-toolbar .e-toolbar-items {
+    background-color: transparent;
+}
+
+.e-toolbar-items .e-btn {
+    background-color: transparent;
+}
+
+#Grid_searchbar{ /* Here Grid_searchbar is GridID + '_' + searchbar*/
+    width:  200px;
+    height: 20px;
+}
+
+.rowcount{
+    line-height: 25px;
+    font-size: 14px;
+}
+
+.e-grid .e-headercell, .e-grid .e-rowcell,
+.e-grid .e-gridcontent,
+.e-grid .e-content,
+.e-grid .e-gridheader,
+.e-grid.e-default {
+    background-color: transparent;
+}
+
+.e-grid .e-pager,
+.e-grid .e-pagercontainer,
+.e-grid .e-numericitem,
+.e-grid .e-pager-default{
+    background-color: transparent;
+}
+
